@@ -24,13 +24,23 @@
 
 Click [there](https://www.kaggle.com/terminus7/pokemon-challenge) if you want to check the competition homepage.
 
+## Content:
+- [ ] Filtering Data
+- [ ] Multiindexing 
+- [ ] Data creation & modification
+- [ ] Pivot tables
+- [ ] Data cleansing
+- [ ] Plots
+- [x] Etc.
+
+
+
+
+### Kaggle screenshot: 
 <p align="center">
   <img src="https://github.com/Carmui/Data-Science-Projects/blob/master/KagglePokemon/img/Pokemon2.PNG?raw=true" alt="Challenge descr"/>
 </p>
 
 
    
-## Content:
-- [x]
-- [x]
-- [x]
+
