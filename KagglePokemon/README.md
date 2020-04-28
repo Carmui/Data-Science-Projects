@@ -25,12 +25,12 @@
 Click [there](https://www.kaggle.com/terminus7/pokemon-challenge) if you want to check the competition homepage.
 
 ## Content:
-- [ ] Filtering Data
-- [ ] Multiindexing 
-- [ ] Data creation & modification
-- [ ] Pivot tables
-- [ ] Data cleansing
-- [ ] Plots
+- [x] Filtering Data
+- [x] Multiindexing 
+- [x] Data creation & modification
+- [x] Pivot tables
+- [x] Functions & lambdas
+- [x] Plots
 - [x] Etc.
 
 
