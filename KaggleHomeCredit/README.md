@@ -8,7 +8,7 @@
 
 ***In this notebook I was trying to improve my logistic regression skills and learning how to deal with missing values + anomalies.
    I have used Imputer to fill the NaN values, scaled the values with the MinMaxScaler and used GridSearchCV to get the best possible 
-   parameter to tune the model. ***
+   parameter to tune the model.***
 
 
 ***
