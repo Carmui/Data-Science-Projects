@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Carmui/Data-Science-Projects/blob/master/KagglePokemon/img/Pokemon.jpg?raw=true" alt="Pokemon"/>
+  <img src="https://github.com/Carmui/Data-Science-Projects/blob/master/Kaggle_Pokemon/img/Pokemon.jpg?raw=true" alt="Pokemon"/>
 </p>
 
 
@@ -38,7 +38,7 @@ Click [there](https://www.kaggle.com/terminus7/pokemon-challenge) if you want to
 
 ### Kaggle screenshot: 
 <p align="center">
-  <img src="https://github.com/Carmui/Data-Science-Projects/blob/master/KagglePokemon/img/Pokemon2.PNG?raw=true" alt="Challenge descr"/>
+  <img src="https://github.com/Carmui/Data-Science-Projects/blob/master/Kaggle_Pokemon/img/Pokemon2.PNG?raw=true" alt="Challenge descr"/>
 </p>
 
 

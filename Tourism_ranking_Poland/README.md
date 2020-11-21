@@ -1,7 +1,7 @@
 <p align="center"><h1>[PL] Ranking atrakcyjności województw pod względem turystycznym w roku 2012 i 2018 </h1></p>
 <p align="center"><h1>[ENG] Ranking atrakcyjności województw pod względem turystycznym w roku 2012 i 2018 </h1></p>
 
-*** This notebook contains only Polish descriptions since it was also used as the examination project***
+*** This notebook contains only Polish descriptions since it was also used as the examination project ***
 
 ***
 

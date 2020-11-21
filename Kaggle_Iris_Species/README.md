@@ -1,6 +1,6 @@
 ### Kaggle screenshot: 
 <p align="center">
-  <img src="https://github.com/Carmui/Data-Science-Projects/blob/master/KaggleIrisSpecies/img/Iris1.PNG?raw=true" alt="Challenge descr"/>
+  <img src="https://github.com/Carmui/Data-Science-Projects/blob/master/Kaggle_Iris_Species/img/Iris1.PNG?raw=true" alt="Challenge descr"/>
 </p>
 
 
