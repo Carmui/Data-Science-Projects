@@ -1,3 +1,4 @@
+
 ### Kaggle screenshot: 
 <p align="center">
   <img src="https://github.com/Carmui/Data-Science-Projects/blob/master/Kaggle_Home_Credit/img/Home.PNG?raw=true" alt="Challenge descr"/>
@@ -6,9 +7,7 @@
 
 <p align="center"><h1>Home Credit Default Risk</h1></p>
 
-***In this notebook I was trying to improve my logistic regression skills and learning how to deal with missing values + anomalies.
-   I have used Imputer to fill the NaN values, scaled the values with the MinMaxScaler and used GridSearchCV to get the best possible 
-   parameter to tune the model.***
+***In this notebook I was trying to improve my logistic regression skills. I learnt how to deal with missing values + anomalies.Imputer was used to fill the NaN values, values were scaled with the MinMaxScaler and I decided to use GridSearchCV to get the best possible parameter to tune the model.***
 
 
 ***

@@ -1,7 +1,14 @@
-<p align="center"><h1>[PL] Ranking atrakcyjności województw pod względem turystycznym w roku 2012 i 2018 </h1></p>
-<p align="center"><h1>[ENG] Ranking atrakcyjności województw pod względem turystycznym w roku 2012 i 2018 </h1></p>
 
-*** This notebook contains only Polish descriptions since it was also used as the examination project ***
+<p align="center"><h1>[PL] Ranking atrakcyjności województw pod względem turystycznym w roku 2012 i 2018 </h1></p>
+
+***Ten notatnik zawiera jedynie polskie komentarze odnośnie wszelkich obliczeń, gdyż jest to projekt zaliczeniowy.***
+
+***
+Celem projektu było uporządkowanie województw polskich pod względem atrakcyjności turystycznej z użyciem metod wielowymiarowej analizy porównawczej. W notatniku wzięte pod uwagę zostały dwa lata: 2012 oraz 2018. W projekcie zawarto opis danych, wstępną analizę danych, ważenie oraz normalizację, a także wykorzystano takie metody jak SMR czy też BZW. Województwa najbardziej atrakcyjne turystycznie zajęły w rankingach wyższe pozycje niż te województwa, które określić można jako mało atrakcyjne turystycznie. Porównanie tego typu służyło sprawdzeniu jak zmieniały się z ubiegiem lat. 
+
+<p align="center"><h1>[ENG] Attractiveness of voivodeships in terms of tourism ranking (years: 2012 and 2018) </h1></p>
+
+***This notebook contains only Polish descriptions since it was also used as the examination project.***
 
 ***
 
